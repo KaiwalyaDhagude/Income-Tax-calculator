@@ -22,7 +22,7 @@ body{
     width: 15rem;
     height: 3rem;
     background-color: hsl(64, 95%, 63%);
-    font-size: 2.5vh;
+    font-size: 2vh;
 }
 .calculateButton:hover{
     background-color: rgb(244, 244, 11);
@@ -30,7 +30,7 @@ body{
     cursor: pointer;
 }
 input{
-    margin: 5% 5%;
+    margin: 5% 2%;
 }
 .output{
     display:block;
