@@ -1,0 +1,46 @@
+h1{
+    text-align:center;
+    padding-top: 1rem;
+    font-size: 3rem;
+}
+body{
+    background-color: #DCBBDB;
+}
+.text{
+    background-color: hsl(180, 61%, 91%);
+    width: 20vw;
+    height: 5vh;
+    font-size: 2.5vh;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+.calculateButton{
+    display:block;
+    position: relative;
+    margin: 3rem auto;
+    width: 15rem;
+    height: 3rem;
+    background-color: hsl(64, 95%, 63%);
+    font-size: 2.5vh;
+}
+.calculateButton:hover{
+    background-color: rgb(244, 244, 11);
+    box-shadow: inset;
+    cursor: pointer;
+}
+input{
+    margin: 5% 5%;
+}
+.output{
+    display:block;
+    margin: auto;
+    background-color: hsl(180, 61%, 91%);
+    font-size: 2.5vh;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 35%;
+    padding: 1rem;
+    text-align: center;
+}
